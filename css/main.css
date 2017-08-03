@@ -1,6 +1,6 @@
 html, body {
   min-height: 100%;
-  display: flex;
+  display: block;
   flex-direction: column;
   font-weight: 300;
   line-height: 1.5;
